@@ -1,3 +1,4 @@
+// run node index.js
 'use strict';
 
 const mysql = require('mysql');
